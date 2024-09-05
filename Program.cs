@@ -1,6 +1,7 @@
+using Application;
+using Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using WebAPI.Data;
-using WebAPI.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

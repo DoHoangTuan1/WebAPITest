@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using WebAPI.Models;
+﻿using Application;
+using Domain;
+using Microsoft.AspNetCore.Mvc;
+
 
 
 namespace WebAPI.Controllers
