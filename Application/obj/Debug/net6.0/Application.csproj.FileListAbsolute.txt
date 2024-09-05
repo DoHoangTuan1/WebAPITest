@@ -1,0 +1,17 @@
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Application.deps.json
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Application.dll
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Application.pdb
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Domain.dll
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Infrastructure.dll
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Infrastructure.pdb
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\bin\Debug\net6.0\Domain.pdb
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.dll
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\refint\Application.dll
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\Application.pdb
+C:\DoHoangTuan\INTERNSHIP\TEST PROJECT 1\Application\obj\Debug\net6.0\ref\Application.dll
